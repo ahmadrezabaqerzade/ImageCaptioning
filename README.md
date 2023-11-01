@@ -9,3 +9,17 @@ In this project, I aim to perform image captioning using convolutional and recur
 * **torchtext : 0.16.0+cpu**
 * **torchvision : 0.16.0+cu118**
 * **tqdm : 4.66.1**
+
+# Using CNN+LSTM
+
+* **embedding-dim: 256**
+* **hidden-dim: 256**
+* **num-layers: 2**
+* **embedding-dropout: 0.3**
+* **lstm-dropout: 0.3**
+* **batch-size: 128**
+* **learning rate: 0.9**
+* **weight decay: 1e-6**
+* **optimizer : SGD**
+
+![result](https://github.com/ahmadrezabaqerzade/ImageCaptioning/tree/main/images/Screenshot from 2023-11-01 04-02-23.png)
