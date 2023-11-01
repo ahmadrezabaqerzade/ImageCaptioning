@@ -22,4 +22,4 @@ In this project, I aim to perform image captioning using convolutional and recur
 * **weight decay: 1e-6**
 * **optimizer : SGD**
 
-<img src="https://github.com/ahmadrezabaqerzade/ImageCaptioning/tree/main/images/Screenshot from 2023-11-01 04-02-23.png"  title="result">
+<img src="https://github.com/ahmadrezabaqerzade/ImageCaptioning/blob/main/images/Screenshot%20from%202023-11-01%2004-02-23.png"  title="result">
