@@ -45,10 +45,10 @@ In this project, I aim to perform image captioning using convolutional and recur
 * **weight decay for decoder: 1e-5**
 * **optimizer : Adam**
 
-Note that the training loop is configured in such a way that if the validation
-loss does not improve in each epoch(if epoch number greater than 10), the
-learning rate is reduced to **0.8**, and the optimizer continues its work with the
-new learning rate.
+**Note that the training loop is configured in such a way that if the validation**
+**loss does not improve in each epoch(if epoch number greater than 10), the**
+**learning rate is reduced to 0.8, and the optimizer continues its work with the**
+**new learning rate.**
 
 <img src="https://github.com/ahmadrezabaqerzade/ImageCaptioning/blob/main/images/Screenshot%20from%202023-11-01%2004-02-23.png"  title="result">
 
